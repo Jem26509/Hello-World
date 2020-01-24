@@ -2,4 +2,4 @@
 Entrenamiento
 
 Prueba de GitHub de Jem.
-A ver si se integra con SAP
+A ver si se integra con SAP.
